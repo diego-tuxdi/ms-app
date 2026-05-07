@@ -140,7 +140,7 @@ export default function IncidentModule({ loggedUser, station, onBack, hasMultipl
               <ChevronLeft size={28} />
             </button>
           )}
-          <h2 className="dashboard-title" style={{ margin: 0 }}>Módulo de incidencias</h2>
+          <h2 className="dashboard-title" style={{ margin: 0 }}>Módulo de test</h2>
         </div>
         <div style={{ display: 'flex', gap: '1rem' }}>
           <button
